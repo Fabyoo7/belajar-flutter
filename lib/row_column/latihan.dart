@@ -18,7 +18,7 @@ class Latihan extends StatelessWidget {
             height: 120.0,
             decoration: BoxDecoration(
               image: DecorationImage(
-                image: AssetImage('assets/images/a77x.png'),
+                image: Ass('assets/images/a77x.png'),
                 fit: BoxFit.cover,
               ),
               borderRadius: BorderRadius.circular(8.0),
